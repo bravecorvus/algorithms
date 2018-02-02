@@ -3,11 +3,11 @@
 ## Andrew Lee
 
 > The mind of America is seized by a fatal dry rot - and it's only a question of time before all that the mind controls will run amuck in a frenzy of stupid, impotent fear.<br>
-### -Hunter S. Thompson
+&nbsp;&nbsp;&nbsp;-Hunter S. Thompson
 
 This is just a repo I made to practice algorithmic problems in Golang.
 
 Feel free to use the code in here however you see fit (although I make no guarantees about algorithmic legitimacy, or top speed).
 
 Much love,
-     Andrew Lee
+Andrew Lee
